@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kokoro TTS</string>
+    <string name="tts_service_name">Kokoro Text-to-Speech</string>
+    <string name="settings_title">Kokoro TTS Settings</string>
+    
+    <!-- Settings Labels -->
+    <string name="voice_setting_title">Voice Selection</string>
+    <string name="voice_setting_summary">Choose a voice for speech synthesis</string>
+    <string name="speed_setting_title">Speech Speed</string>
+    <string name="speed_setting_summary">Adjust speaking rate</string>
+    
+    <!-- Test Section -->
+    <string name="test_synthesis">Test Synthesis</string>
+    <string name="test_input_hint">Enter text to test…</string>
+    <string name="test_button_play">Play</string>
+    <string name="test_button_stop">Stop</string>
+    <string name="test_processing">Processing…</string>
+    
+    <!-- Voice Names -->
+    <string name="voice_af_sky">Sky (American Female)</string>
+    <string name="voice_af_bella">Bella (American Female)</string>
+    <string name="voice_af_nicole">Nicole (American Female)</string>
+    <string name="voice_af_sarah">Sarah (American Female)</string>
+    <string name="voice_af">Default (American Female)</string>
+    <string name="voice_am_adam">Adam (American Male)</string>
+    <string name="voice_am_michael">Michael (American Male)</string>
+    <string name="voice_bf_emma">Emma (British Female)</string>
+    <string name="voice_bf_isabella">Isabella (British Female)</string>
+    <string name="voice_bm_george">George (British Male)</string>
+    <string name="voice_bm_lewis">Lewis (British Male)</string>
+    
+    <!-- Status Messages -->
+    <string name="model_loading">Loading Kokoro model…</string>
+    <string name="model_ready">Model ready</string>
+    <string name="model_error">Failed to load model</string>
+    <string name="synthesis_error">Synthesis failed</string>
+    <string name="tts_ready">TTS Engine Ready</string>
+    <string name="tts_init_failed">TTS Initialization Failed</string>
+    
+    <!-- Default Test Text -->
+    <string name="default_test_text">Hello! This is Kokoro text-to-speech synthesis. The quick brown fox jumps over the lazy dog.</string>
+</resources>

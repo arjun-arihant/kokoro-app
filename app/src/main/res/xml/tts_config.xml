@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tts-engine xmlns:android="http://schemas.android.com/apk/res/android"
+    android:settingsActivity="com.kokorotts.android.SettingsActivity">
+
+    <!-- American English Female Voices -->
+    <voice
+        name="af_sky"
+        locale="en_US"
+        gender="female"
+        networkTimeoutMs="0"
+        notInstalled="false"
+        quality="500"
+        latency="200"
+        requiresNetworkConnection="false" />
+
+    <voice
+        name="af_bella"
+        locale="en_US"
+        gender="female"
+        networkTimeoutMs="0"
+        notInstalled="false"
+        quality="500"
+        latency="200"
+        requiresNetworkConnection="false" />
+
+    <voice
+        name="af_nicole"
+        locale="en_US"
+        gender="female"
+        networkTimeoutMs="0"
+        notInstalled="false"
+        quality="500"
+        latency="200"
+        requiresNetworkConnection="false" />
+
+    <voice
+        name="af_sarah"
+        locale="en_US"
+        gender="female"
+        networkTimeoutMs="0"
+        notInstalled="false"
+        quality="500"
+        latency="200"
+        requiresNetworkConnection="false" />
+
+    <voice
+        name="af"
+        locale="en_US"
+        gender="female"
+        networkTimeoutMs="0"
+        notInstalled="false"
+        quality="500"
+        latency="200"
+        requiresNetworkConnection="false" />
+
+    <!-- American English Male Voices -->
+    <voice
+        name="am_adam"
+        locale="en_US"
+        gender="male"
+        networkTimeoutMs="0"
+        notInstalled="false"
+        quality="500"
+        latency="200"
+        requiresNetworkConnection="false" />
+
+    <voice
+        name="am_michael"
+        locale="en_US"
+        gender="male"
+        networkTimeoutMs="0"
+        notInstalled="false"
+        quality="500"
+        latency="200"
+        requiresNetworkConnection="false" />
+
+    <!-- British English Female Voices -->
+    <voice
+        name="bf_emma"
+        locale="en_GB"
+        gender="female"
+        networkTimeoutMs="0"
+        notInstalled="false"
+        quality="500"
+        latency="200"
+        requiresNetworkConnection="false" />
+
+    <voice
+        name="bf_isabella"
+        locale="en_GB"
+        gender="female"
+        networkTimeoutMs="0"
+        notInstalled="false"
+        quality="500"
+        latency="200"
+        requiresNetworkConnection="false" />
+
+    <!-- British English Male Voices -->
+    <voice
+        name="bm_george"
+        locale="en_GB"
+        gender="male"
+        networkTimeoutMs="0"
+        notInstalled="false"
+        quality="500"
+        latency="200"
+        requiresNetworkConnection="false" />
+
+    <voice
+        name="bm_lewis"
+        locale="en_GB"
+        gender="male"
+        networkTimeoutMs="0"
+        notInstalled="false"
+        quality="500"
+        latency="200"
+        requiresNetworkConnection="false" />
+
+</tts-engine>

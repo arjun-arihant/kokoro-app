@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Speech bubble icon representing TTS -->
+    <group android:translateX="27" android:translateY="27">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M27,5 C38.046,5 47,13.954 47,25 C47,36.046 38.046,45 27,45 L27,45 L10,45 L10,35 C4.477,35 0,30.523 0,25 C0,13.954 8.954,5 20,5 L27,5 Z" />
+        
+        <!-- Sound waves -->
+        <path
+            android:strokeColor="#6200EE"
+            android:strokeWidth="2"
+            android:pathData="M30,20 Q35,25 30,30"
+            android:fillColor="#00000000" />
+        <path
+            android:strokeColor="#6200EE"
+            android:strokeWidth="2"
+            android:pathData="M36,15 Q45,25 36,35"
+            android:fillColor="#00000000" />
+    </group>
+</vector>
